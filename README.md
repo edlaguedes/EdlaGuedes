@@ -31,6 +31,11 @@
   />
 </p>
 
+##
+<img src="https://raw.githubusercontent.com/edlaguedes/edlaguedes/output/snake.svg" alt="Snake animation" />
+
+###
+
 
 
 
