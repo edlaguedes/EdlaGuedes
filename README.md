@@ -20,22 +20,16 @@
 <div>
   
  ### 📊 Estatísticas
-<table>
-  <tr>
-    <td>
-      <img 
-        src="https://github-readme-stats.vercel.app/api?username=edlaguedes&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-        height="200"
-      />
-    </td>
-    <td>
-      <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=edlaguedes&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-        height="200"
-      />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=edlaguedes&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    width="48%"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=edlaguedes&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    width="48%"
+  />
+</p>
 
 
 
