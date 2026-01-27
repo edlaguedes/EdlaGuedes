@@ -3,13 +3,15 @@
 - 📚 Estou cursando Análise e Desenvolvimento de Sistemas.
 - 💻 Apaixonada por tecnologia e programação.
 - 🐍 Tenho conhecimento em **Python**.
-- 🧠 Atualmente aprendendo **C#** e **Banco de Dados**. 
+- 🧠 Atualmente aprendendo **javaScript** e **Banco de Dados**. 
 - 🎯 Em busca de um **estágio na área de tecnologia**.
 
 <div>
 <img align="center" alt="Edla-Sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
 <img align="center" alt="Edla-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="center" alt="Edla-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+<img align="center" alt="Edla-javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+          
+          
 <div>
   
 ##
