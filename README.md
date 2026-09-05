@@ -2,7 +2,7 @@
 
 - 📚 Estou cursando Análise e Desenvolvimento de Sistemas.
 - 💻 Apaixonada por tecnologia e programação.
-- 🧠 Atualmente focada em **Desenvolvimento Back-End com .NET e C#**. 
+- 🧠 Atualmente focada em **Desenvolvimento Back-End com Java, .NET e C#**. 
 - 👩‍💻 Conhecimento em **Python, JavaScript, SQL, HTML e CSS**.
 - 🎯 Em busca de um **estágio na área de tecnologia**.
 
